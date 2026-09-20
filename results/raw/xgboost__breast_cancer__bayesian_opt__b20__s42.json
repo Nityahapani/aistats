@@ -1,0 +1,17 @@
+{
+  "task": "xgboost",
+  "dataset": "breast_cancer",
+  "searcher": "bayesian_opt",
+  "budget": 20,
+  "B": 30,
+  "val_loss": 0.007299270072992692,
+  "test_loss": 0.03508771929824561,
+  "gen_gap": 0.02778844922525292,
+  "winner_stability": 0.03333333333333333,
+  "eps_coverage": 0.43333333333333335,
+  "selection_entropy": 0.9164253170792144,
+  "mean_winner_dist": 0.2386599784582799,
+  "seed": 42,
+  "run_id": "xgboost__breast_cancer__bayesian_opt__b20__s42",
+  "elapsed": 30.3
+}

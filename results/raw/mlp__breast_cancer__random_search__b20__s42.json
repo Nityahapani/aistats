@@ -1,0 +1,17 @@
+{
+  "task": "mlp",
+  "dataset": "breast_cancer",
+  "searcher": "random_search",
+  "budget": 20,
+  "B": 50,
+  "val_loss": 0.0,
+  "test_loss": 0.02631578947368418,
+  "gen_gap": 0.02631578947368418,
+  "winner_stability": 0.02,
+  "eps_coverage": 0.44,
+  "selection_entropy": 0.9732312764758485,
+  "mean_winner_dist": 0.405007128698988,
+  "seed": 42,
+  "run_id": "mlp__breast_cancer__random_search__b20__s42",
+  "elapsed": 120.2
+}
