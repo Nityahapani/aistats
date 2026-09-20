@@ -1,0 +1,17 @@
+{
+  "task": "xgboost",
+  "dataset": "wine",
+  "searcher": "bayesian_opt",
+  "budget": 20,
+  "B": 40,
+  "val_loss": 0.0,
+  "test_loss": 0.02777777777777779,
+  "gen_gap": 0.02777777777777779,
+  "winner_stability": 0.05,
+  "eps_coverage": 0.775,
+  "selection_entropy": 0.9277943660763379,
+  "mean_winner_dist": 0.28644096282189846,
+  "seed": 999,
+  "run_id": "xgboost__wine__bayesian_opt__b20__s999",
+  "elapsed": 12.0
+}

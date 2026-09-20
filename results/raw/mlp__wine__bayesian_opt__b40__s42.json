@@ -1,0 +1,17 @@
+{
+  "task": "mlp",
+  "dataset": "wine",
+  "searcher": "bayesian_opt",
+  "budget": 40,
+  "B": 30,
+  "val_loss": 0.0,
+  "test_loss": 0.05555555555555558,
+  "gen_gap": 0.05555555555555558,
+  "winner_stability": 0.0,
+  "eps_coverage": 0.8333333333333334,
+  "selection_entropy": 0.9546166331603012,
+  "mean_winner_dist": 0.3919574849414215,
+  "seed": 42,
+  "run_id": "mlp__wine__bayesian_opt__b40__s42",
+  "elapsed": 22.9
+}

@@ -1,0 +1,17 @@
+{
+  "task": "mlp",
+  "dataset": "digits",
+  "searcher": "bayesian_opt",
+  "budget": 40,
+  "B": 25,
+  "val_loss": 0.01157407407407407,
+  "test_loss": 0.033333333333333326,
+  "gen_gap": 0.021759259259259256,
+  "winner_stability": 0.04,
+  "eps_coverage": 0.6,
+  "selection_entropy": 0.8967944328971255,
+  "mean_winner_dist": 0.32686932213011544,
+  "seed": 999,
+  "run_id": "mlp__digits__bayesian_opt__b40__s999",
+  "elapsed": 237.2
+}

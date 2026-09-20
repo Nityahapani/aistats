@@ -1,0 +1,17 @@
+{
+  "task": "xgboost",
+  "dataset": "wine",
+  "searcher": "random_search",
+  "budget": 20,
+  "B": 40,
+  "val_loss": 0.0,
+  "test_loss": 0.05555555555555558,
+  "gen_gap": 0.05555555555555558,
+  "winner_stability": 0.025,
+  "eps_coverage": 0.725,
+  "selection_entropy": 0.9577398907785025,
+  "mean_winner_dist": 0.40729290603664403,
+  "seed": 999,
+  "run_id": "xgboost__wine__random_search__b20__s999",
+  "elapsed": 11.8
+}

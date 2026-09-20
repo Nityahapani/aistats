@@ -1,0 +1,17 @@
+{
+  "task": "mlp",
+  "dataset": "digits",
+  "searcher": "random_search",
+  "budget": 20,
+  "B": 30,
+  "val_loss": 0.01851851851851849,
+  "test_loss": 0.033333333333333326,
+  "gen_gap": 0.014814814814814836,
+  "winner_stability": 0.0,
+  "eps_coverage": 0.9,
+  "selection_entropy": 0.9630632035569814,
+  "mean_winner_dist": 0.30476550447910294,
+  "seed": 999,
+  "run_id": "mlp__digits__random_search__b20__s999",
+  "elapsed": 108.1
+}

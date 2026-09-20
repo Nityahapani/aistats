@@ -1,0 +1,17 @@
+{
+  "task": "xgboost",
+  "dataset": "breast_cancer",
+  "searcher": "random_search",
+  "budget": 40,
+  "B": 40,
+  "val_loss": 0.0,
+  "test_loss": 0.02631578947368418,
+  "gen_gap": 0.02631578947368418,
+  "winner_stability": 0.05,
+  "eps_coverage": 0.1,
+  "selection_entropy": 0.9407245242787825,
+  "mean_winner_dist": 0.35034170923085484,
+  "seed": 999,
+  "run_id": "xgboost__breast_cancer__random_search__b40__s999",
+  "elapsed": 47.4
+}

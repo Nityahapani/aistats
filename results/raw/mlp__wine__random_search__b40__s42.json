@@ -1,0 +1,17 @@
+{
+  "task": "mlp",
+  "dataset": "wine",
+  "searcher": "random_search",
+  "budget": 40,
+  "B": 30,
+  "val_loss": 0.0,
+  "test_loss": 0.02777777777777779,
+  "gen_gap": 0.02777777777777779,
+  "winner_stability": 0.0,
+  "eps_coverage": 0.8333333333333334,
+  "selection_entropy": 0.9243323054386987,
+  "mean_winner_dist": 0.3683612490473877,
+  "seed": 42,
+  "run_id": "mlp__wine__random_search__b40__s42",
+  "elapsed": 22.4
+}

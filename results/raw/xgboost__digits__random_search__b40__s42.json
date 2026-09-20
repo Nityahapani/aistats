@@ -1,0 +1,17 @@
+{
+  "task": "xgboost",
+  "dataset": "digits",
+  "searcher": "random_search",
+  "budget": 40,
+  "B": 25,
+  "val_loss": 0.04166666666666663,
+  "test_loss": 0.07777777777777772,
+  "gen_gap": 0.036111111111111094,
+  "winner_stability": 0.0,
+  "eps_coverage": 0.96,
+  "selection_entropy": 0.9632614446606551,
+  "mean_winner_dist": 0.3979135167993347,
+  "seed": 42,
+  "run_id": "xgboost__digits__random_search__b40__s42",
+  "elapsed": 100.7
+}

@@ -1,0 +1,17 @@
+{
+  "task": "mlp",
+  "dataset": "wine",
+  "searcher": "successive_halving",
+  "budget": 20,
+  "B": 30,
+  "val_loss": 0.023255813953488413,
+  "test_loss": 0.0,
+  "gen_gap": -0.023255813953488413,
+  "winner_stability": 0.0,
+  "eps_coverage": 0.9333333333333333,
+  "selection_entropy": 0.9193339664841182,
+  "mean_winner_dist": 0.3626055624211355,
+  "seed": 123,
+  "run_id": "mlp__wine__successive_halving__b20__s123",
+  "elapsed": 7.3
+}

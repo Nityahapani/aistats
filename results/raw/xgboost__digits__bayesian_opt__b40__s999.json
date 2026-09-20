@@ -1,0 +1,17 @@
+{
+  "task": "xgboost",
+  "dataset": "digits",
+  "searcher": "bayesian_opt",
+  "budget": 40,
+  "B": 25,
+  "val_loss": 0.02546296296296291,
+  "test_loss": 0.022222222222222254,
+  "gen_gap": -0.003240740740740655,
+  "winner_stability": 0.0,
+  "eps_coverage": 0.8,
+  "selection_entropy": 0.9668212623277387,
+  "mean_winner_dist": 0.291876735222871,
+  "seed": 999,
+  "run_id": "xgboost__digits__bayesian_opt__b40__s999",
+  "elapsed": 92.7
+}

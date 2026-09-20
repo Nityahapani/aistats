@@ -1,0 +1,17 @@
+{
+  "task": "mlp",
+  "dataset": "breast_cancer",
+  "searcher": "bayesian_opt",
+  "budget": 40,
+  "B": 30,
+  "val_loss": 0.0,
+  "test_loss": 0.03508771929824561,
+  "gen_gap": 0.03508771929824561,
+  "winner_stability": 0.0,
+  "eps_coverage": 0.4,
+  "selection_entropy": 0.8803612029144421,
+  "mean_winner_dist": 0.2818049827236868,
+  "seed": 123,
+  "run_id": "mlp__breast_cancer__bayesian_opt__b40__s123",
+  "elapsed": 62.7
+}

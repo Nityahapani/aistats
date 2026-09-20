@@ -1,0 +1,17 @@
+{
+  "task": "xgboost",
+  "dataset": "wine",
+  "searcher": "successive_halving",
+  "budget": 20,
+  "B": 40,
+  "val_loss": 0.0,
+  "test_loss": 0.02777777777777779,
+  "gen_gap": 0.02777777777777779,
+  "winner_stability": 0.05,
+  "eps_coverage": 0.75,
+  "selection_entropy": 0.927950669356856,
+  "mean_winner_dist": 0.38126532682379677,
+  "seed": 123,
+  "run_id": "xgboost__wine__successive_halving__b20__s123",
+  "elapsed": 7.3
+}

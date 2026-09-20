@@ -1,0 +1,17 @@
+{
+  "task": "xgboost",
+  "dataset": "breast_cancer",
+  "searcher": "successive_halving",
+  "budget": 20,
+  "B": 40,
+  "val_loss": 0.007299270072992692,
+  "test_loss": 0.02631578947368418,
+  "gen_gap": 0.01901651940069149,
+  "winner_stability": 0.0,
+  "eps_coverage": 0.125,
+  "selection_entropy": 0.9566937912793423,
+  "mean_winner_dist": 0.39172930290559727,
+  "seed": 123,
+  "run_id": "xgboost__breast_cancer__successive_halving__b20__s123",
+  "elapsed": 15.4
+}

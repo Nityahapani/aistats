@@ -1,0 +1,17 @@
+{
+  "task": "xgboost",
+  "dataset": "digits",
+  "searcher": "successive_halving",
+  "budget": 20,
+  "B": 25,
+  "val_loss": 0.02546296296296291,
+  "test_loss": 0.02777777777777779,
+  "gen_gap": 0.0023148148148148806,
+  "winner_stability": 0.0,
+  "eps_coverage": 0.64,
+  "selection_entropy": 0.903519180772354,
+  "mean_winner_dist": 0.3269703125531946,
+  "seed": 999,
+  "run_id": "xgboost__digits__successive_halving__b20__s999",
+  "elapsed": 29.2
+}

@@ -1,0 +1,17 @@
+{
+  "task": "mlp",
+  "dataset": "breast_cancer",
+  "searcher": "successive_halving",
+  "budget": 40,
+  "B": 30,
+  "val_loss": 0.0,
+  "test_loss": 0.02631578947368418,
+  "gen_gap": 0.02631578947368418,
+  "winner_stability": 0.1,
+  "eps_coverage": 0.23333333333333334,
+  "selection_entropy": 0.9846923503743683,
+  "mean_winner_dist": 0.3307928903743203,
+  "seed": 123,
+  "run_id": "mlp__breast_cancer__successive_halving__b40__s123",
+  "elapsed": 60.3
+}

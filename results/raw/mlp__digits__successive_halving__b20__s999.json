@@ -1,0 +1,17 @@
+{
+  "task": "mlp",
+  "dataset": "digits",
+  "searcher": "successive_halving",
+  "budget": 20,
+  "B": 25,
+  "val_loss": 0.01851851851851849,
+  "test_loss": 0.033333333333333326,
+  "gen_gap": 0.014814814814814836,
+  "winner_stability": 0.08,
+  "eps_coverage": 0.8,
+  "selection_entropy": 0.9653795646262966,
+  "mean_winner_dist": 0.28847426191713077,
+  "seed": 999,
+  "run_id": "mlp__digits__successive_halving__b20__s999",
+  "elapsed": 68.7
+}
