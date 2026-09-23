@@ -1,0 +1,18 @@
+{
+  "task": "svm_rbf",
+  "dataset": "large_noisy_binary",
+  "searcher": "random_search",
+  "budget": 20,
+  "B": 40,
+  "val_loss": 0.16000000000000003,
+  "test_loss": 0.14200000000000002,
+  "gen_gap": -0.018000000000000016,
+  "winner_stability": 0.1,
+  "eps_coverage": 1.0,
+  "selection_entropy": 0.8755298855614116,
+  "mean_winner_dist": 0.17037677489796804,
+  "seed": 42,
+  "run_id": "svm_rbf__large_noisy_binary__random_search__b20__s42",
+  "elapsed": 213.9,
+  "task_type": "classification"
+}

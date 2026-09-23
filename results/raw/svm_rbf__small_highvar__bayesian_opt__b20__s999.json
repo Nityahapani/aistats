@@ -1,0 +1,18 @@
+{
+  "task": "svm_rbf",
+  "dataset": "small_highvar",
+  "searcher": "bayesian_opt",
+  "budget": 20,
+  "B": 40,
+  "val_loss": 0.25,
+  "test_loss": 0.25,
+  "gen_gap": 0.0,
+  "winner_stability": 0.075,
+  "eps_coverage": 0.925,
+  "selection_entropy": 0.9346028460618928,
+  "mean_winner_dist": 0.26640365101396685,
+  "seed": 999,
+  "run_id": "svm_rbf__small_highvar__bayesian_opt__b20__s999",
+  "task_type": "classification",
+  "elapsed": 2.2
+}
