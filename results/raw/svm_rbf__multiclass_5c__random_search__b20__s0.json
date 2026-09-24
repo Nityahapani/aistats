@@ -1,0 +1,18 @@
+{
+  "task": "svm_rbf",
+  "dataset": "multiclass_5c",
+  "searcher": "random_search",
+  "budget": 20,
+  "B": 50,
+  "val_loss": 0.1266666666666667,
+  "test_loss": 0.10999999999999999,
+  "gen_gap": -0.01666666666666672,
+  "winner_stability": 0.46,
+  "eps_coverage": 1.0,
+  "selection_entropy": 0.9706707548916701,
+  "mean_winner_dist": 0.12258242041134251,
+  "seed": 0,
+  "run_id": "svm_rbf__multiclass_5c__random_search__b20__s0",
+  "elapsed": 38.8,
+  "task_type": "classification"
+}

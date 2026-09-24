@@ -1,0 +1,18 @@
+{
+  "task": "svr",
+  "dataset": "diabetes_reg",
+  "searcher": "random_search",
+  "budget": 40,
+  "B": 50,
+  "val_loss": 0.6535520316067837,
+  "test_loss": 0.7590872951817446,
+  "gen_gap": 0.1055352635749609,
+  "winner_stability": 0.1,
+  "eps_coverage": 0.64,
+  "selection_entropy": 0.9376207385674824,
+  "mean_winner_dist": 0.1955360573588876,
+  "seed": 1,
+  "run_id": "svr__diabetes_reg__random_search__b40__s1",
+  "elapsed": 9.4,
+  "task_type": "regression"
+}

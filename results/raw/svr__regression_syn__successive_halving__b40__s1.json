@@ -1,0 +1,18 @@
+{
+  "task": "svr",
+  "dataset": "regression_syn",
+  "searcher": "successive_halving",
+  "budget": 40,
+  "B": 50,
+  "val_loss": 0.40646491791141875,
+  "test_loss": 0.44433764535391457,
+  "gen_gap": 0.03787272744249581,
+  "winner_stability": 0.18,
+  "eps_coverage": 0.8,
+  "selection_entropy": 0.8847981388891282,
+  "mean_winner_dist": 0.15508040772575257,
+  "seed": 1,
+  "run_id": "svr__regression_syn__successive_halving__b40__s1",
+  "elapsed": 34.0,
+  "task_type": "regression"
+}

@@ -1,0 +1,18 @@
+{
+  "task": "svr",
+  "dataset": "regression_syn",
+  "searcher": "random_search",
+  "budget": 40,
+  "B": 50,
+  "val_loss": 0.410553994454346,
+  "test_loss": 0.3456292959657754,
+  "gen_gap": -0.06492469848857058,
+  "winner_stability": 0.36,
+  "eps_coverage": 0.86,
+  "selection_entropy": 0.9502384521620405,
+  "mean_winner_dist": 0.1375107398019889,
+  "seed": 3,
+  "run_id": "svr__regression_syn__random_search__b40__s3",
+  "elapsed": 34.7,
+  "task_type": "regression"
+}

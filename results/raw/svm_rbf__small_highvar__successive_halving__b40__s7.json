@@ -1,0 +1,18 @@
+{
+  "task": "svm_rbf",
+  "dataset": "small_highvar",
+  "searcher": "successive_halving",
+  "budget": 40,
+  "B": 60,
+  "val_loss": 0.25,
+  "test_loss": 0.5,
+  "gen_gap": 0.25,
+  "winner_stability": 0.03333333333333333,
+  "eps_coverage": 0.8833333333333333,
+  "selection_entropy": 0.812669521303452,
+  "mean_winner_dist": 0.21318680492460448,
+  "seed": 7,
+  "run_id": "svm_rbf__small_highvar__successive_halving__b40__s7",
+  "elapsed": 4.2,
+  "task_type": "classification"
+}

@@ -1,0 +1,18 @@
+{
+  "task": "svm_rbf",
+  "dataset": "multiclass_5c",
+  "searcher": "successive_halving",
+  "budget": 40,
+  "B": 60,
+  "val_loss": 0.11333333333333329,
+  "test_loss": 0.13666666666666671,
+  "gen_gap": 0.023333333333333428,
+  "winner_stability": 0.3333333333333333,
+  "eps_coverage": 0.9666666666666667,
+  "selection_entropy": 0.8706933165285353,
+  "mean_winner_dist": 0.11686015236918551,
+  "seed": 1,
+  "run_id": "svm_rbf__multiclass_5c__successive_halving__b40__s1",
+  "elapsed": 69.7,
+  "task_type": "classification"
+}

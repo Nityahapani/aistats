@@ -1,0 +1,18 @@
+{
+  "task": "svr",
+  "dataset": "regression_syn",
+  "searcher": "bayesian_opt",
+  "budget": 40,
+  "B": 50,
+  "val_loss": 0.3558410245315217,
+  "test_loss": 0.33722878799391287,
+  "gen_gap": -0.01861223653760885,
+  "winner_stability": 0.44,
+  "eps_coverage": 0.72,
+  "selection_entropy": 0.9214255900931201,
+  "mean_winner_dist": 0.10905476385806595,
+  "seed": 7,
+  "run_id": "svr__regression_syn__bayesian_opt__b40__s7",
+  "elapsed": 40.7,
+  "task_type": "regression"
+}

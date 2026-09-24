@@ -1,0 +1,18 @@
+{
+  "task": "svr",
+  "dataset": "diabetes_reg",
+  "searcher": "bayesian_opt",
+  "budget": 40,
+  "B": 50,
+  "val_loss": 0.6411847644419232,
+  "test_loss": 0.7958396187623953,
+  "gen_gap": 0.1546548543204721,
+  "winner_stability": 0.04,
+  "eps_coverage": 0.84,
+  "selection_entropy": 0.9012194830773054,
+  "mean_winner_dist": 0.16819440854943668,
+  "seed": 1,
+  "run_id": "svr__diabetes_reg__bayesian_opt__b40__s1",
+  "elapsed": 13.5,
+  "task_type": "regression"
+}

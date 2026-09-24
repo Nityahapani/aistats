@@ -1,0 +1,18 @@
+{
+  "task": "svm_rbf",
+  "dataset": "small_highvar",
+  "searcher": "random_search",
+  "budget": 20,
+  "B": 60,
+  "val_loss": 0.125,
+  "test_loss": 0.375,
+  "gen_gap": 0.25,
+  "winner_stability": 0.05,
+  "eps_coverage": 0.21666666666666667,
+  "selection_entropy": 0.9295843984630502,
+  "mean_winner_dist": 0.23980222757632247,
+  "seed": 1,
+  "run_id": "svm_rbf__small_highvar__random_search__b20__s1",
+  "elapsed": 2.1,
+  "task_type": "classification"
+}

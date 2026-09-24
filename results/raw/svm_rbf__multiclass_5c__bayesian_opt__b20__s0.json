@@ -1,0 +1,18 @@
+{
+  "task": "svm_rbf",
+  "dataset": "multiclass_5c",
+  "searcher": "bayesian_opt",
+  "budget": 20,
+  "B": 50,
+  "val_loss": 0.13,
+  "test_loss": 0.13,
+  "gen_gap": 0.0,
+  "winner_stability": 0.64,
+  "eps_coverage": 1.0,
+  "selection_entropy": 0.9379443325976662,
+  "mean_winner_dist": 0.0939824366179703,
+  "seed": 0,
+  "run_id": "svm_rbf__multiclass_5c__bayesian_opt__b20__s0",
+  "elapsed": 31.1,
+  "task_type": "classification"
+}

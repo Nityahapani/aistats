@@ -1,0 +1,18 @@
+{
+  "task": "svr",
+  "dataset": "diabetes_reg",
+  "searcher": "successive_halving",
+  "budget": 20,
+  "B": 50,
+  "val_loss": 0.7467630263435552,
+  "test_loss": 0.8713636223693987,
+  "gen_gap": 0.1246005960258435,
+  "winner_stability": 0.0,
+  "eps_coverage": 0.64,
+  "selection_entropy": 0.9288971780169336,
+  "mean_winner_dist": 0.2702458751680136,
+  "seed": 0,
+  "run_id": "svr__diabetes_reg__successive_halving__b20__s0",
+  "elapsed": 3.0,
+  "task_type": "regression"
+}
